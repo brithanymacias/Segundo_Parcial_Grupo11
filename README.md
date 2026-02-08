@@ -15,7 +15,7 @@ Este proyecto se destaca por la implementación de una **Arquitectura por Capas*
 
 ---
 
-## 🚀 Características Principales
+## 🏗 Características Principales
 
 - **CRUD Completo**: Crear, Leer, Actualizar y Eliminar trámites.
 - **Gestión de Ciudadanos**: Asociación de datos personales (Cédula, Nombre y Apellido) a cada trámite.
@@ -48,7 +48,6 @@ El código está organizado en paquetes lógicos que separan claramente las resp
 - **UI**  
   Contiene los archivos de interfaz gráfica generados con **Qt Designer** y la lógica de interacción con el usuario.
 
----
 
 ### 2️⃣ Patrones de Diseño Implementados
 
@@ -63,7 +62,6 @@ El código está organizado en paquetes lógicos que separan claramente las resp
 - **DTO / VO (Data Transfer Object / Value Object)**  
   Uso de objetos para transferir datos entre capas sin exponer directamente la estructura de la base de datos.
 
----
 
 ### 3️⃣ Seguridad
 
@@ -83,7 +81,7 @@ El código está organizado en paquetes lógicos que separan claramente las resp
 El sistema utiliza **SQL Server** como gestor de base de datos.  
 La estructura se crea mediante el archivo:
 
-- `schema_SARH.sql`
+- `schema.sql`
 
 Este script contiene:
 - Creación de la base de datos
@@ -95,7 +93,7 @@ Este script contiene:
 ## ▶️ Ejecución del Proyecto
 
 1. Clonar el repositorio desde GitHub.
-2. Ejecutar el archivo `schema_SARH.sql` en SQL Server.
+2. Ejecutar el archivo `schema.sql` en SQL Server.
 3. Abrir el proyecto en **PyCharm**.
 4. Ejecutar el archivo `main.py`.
 
