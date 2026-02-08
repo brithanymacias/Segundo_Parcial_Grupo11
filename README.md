@@ -99,3 +99,21 @@ Este script contiene:
 
 ---
 
+## 🔗🎥 Enlace del vídeo
+
+https://drive.google.com/file/d/1dkR1bHyQQohtF56lGcaF4lbKnvw1vIOi/view?usp=drivesdk
+
+---
+
+## 📸 Capturas del programa
+
+## Función Insertar (Nuevo)
+
+![WhatsApp Image 2026-02-08 at 17 35 47](https://github.com/user-attachments/assets/c1561da8-8a25-4b72-9f61-b050661705a6)
+![WhatsApp Image 2026-02-08 at 17 36 03](https://github.com/user-attachments/assets/9ad0e760-93c5-4147-96f7-41f80fb0c04c)
+![WhatsApp Image 2026-02-08 at 17 37 59](https://github.com/user-attachments/assets/020b4ccc-b9f9-47aa-a72f-922af48fd529)
+
+
+
+
+
