@@ -113,6 +113,33 @@ https://drive.google.com/file/d/1dkR1bHyQQohtF56lGcaF4lbKnvw1vIOi/view?usp=drive
 ![WhatsApp Image 2026-02-08 at 17 36 03](https://github.com/user-attachments/assets/9ad0e760-93c5-4147-96f7-41f80fb0c04c)
 ![WhatsApp Image 2026-02-08 at 17 37 59](https://github.com/user-attachments/assets/020b4ccc-b9f9-47aa-a72f-922af48fd529)
 
+## Función Buscar
+
+![WhatsApp Image 2026-02-08 at 17 29 17](https://github.com/user-attachments/assets/16b694c5-ddd5-4499-a2e7-71514f9b10c1)
+![WhatsApp Image 2026-02-08 at 17 29 43](https://github.com/user-attachments/assets/6c544c9d-48fc-4ce1-9c25-3abfafd1a99d)
+
+## Función Actualizar
+
+![WhatsApp Image 2026-02-08 at 17 30 55](https://github.com/user-attachments/assets/c462f583-4f5e-43e7-96a4-d0974eb607b2)
+![WhatsApp Image 2026-02-08 at 17 31 35](https://github.com/user-attachments/assets/fe711076-1d60-4cad-806e-47b2b1733c87)
+![WhatsApp Image 2026-02-08 at 17 31 53](https://github.com/user-attachments/assets/2394f9d5-87bd-4a00-947d-287a180a809c)
+![WhatsApp Image 2026-02-08 at 17 32 23](https://github.com/user-attachments/assets/cbb823f0-8238-4156-8381-785571935f97)
+
+
+## Función Eliminar
+
+![WhatsApp Image 2026-02-08 at 17 33 37](https://github.com/user-attachments/assets/6d40af75-c473-4744-8e4d-c791f8fdd529)
+![WhatsApp Image 2026-02-08 at 17 34 00](https://github.com/user-attachments/assets/d82e6273-eb7d-454a-835f-9b46992a9345)
+![WhatsApp Image 2026-02-08 at 17 34 18](https://github.com/user-attachments/assets/64919990-ddf0-42c1-ac53-fd094bb85d34)
+
+## Validaciones de algunos campos vacíos
+
+![WhatsApp Image 2026-02-08 at 17 39 09](https://github.com/user-attachments/assets/0b5db484-ec90-49e0-beb9-9e468a7e13c0)
+![WhatsApp Image 2026-02-08 at 17 39 22](https://github.com/user-attachments/assets/52767db7-f3bb-4351-8f47-60c48eff722c)
+![WhatsApp Image 2026-02-08 at 17 39 50](https://github.com/user-attachments/assets/ac749f5c-e729-40a1-9933-adc88ef49011)
+![WhatsApp Image 2026-02-08 at 17 40 05](https://github.com/user-attachments/assets/db945cc7-6e48-49f0-b3e0-d77aefb43ea5)
+
+
 
 
 
