@@ -109,14 +109,14 @@ https://drive.google.com/file/d/1dkR1bHyQQohtF56lGcaF4lbKnvw1vIOi/view?usp=drive
 
 ## Función Insertar (Nuevo)
 
+![WhatsApp Image 2026-02-08 at 17 37 59](https://github.com/user-attachments/assets/020b4ccc-b9f9-47aa-a72f-922af48fd529)
 ![WhatsApp Image 2026-02-08 at 17 35 47](https://github.com/user-attachments/assets/c1561da8-8a25-4b72-9f61-b050661705a6)
 ![WhatsApp Image 2026-02-08 at 17 36 03](https://github.com/user-attachments/assets/9ad0e760-93c5-4147-96f7-41f80fb0c04c)
-![WhatsApp Image 2026-02-08 at 17 37 59](https://github.com/user-attachments/assets/020b4ccc-b9f9-47aa-a72f-922af48fd529)
 
 ## Función Buscar
 
-![WhatsApp Image 2026-02-08 at 17 29 17](https://github.com/user-attachments/assets/16b694c5-ddd5-4499-a2e7-71514f9b10c1)
 ![WhatsApp Image 2026-02-08 at 17 29 43](https://github.com/user-attachments/assets/6c544c9d-48fc-4ce1-9c25-3abfafd1a99d)
+![WhatsApp Image 2026-02-08 at 17 29 17](https://github.com/user-attachments/assets/16b694c5-ddd5-4499-a2e7-71514f9b10c1)
 
 ## Función Actualizar
 
