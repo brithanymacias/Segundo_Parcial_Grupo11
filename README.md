@@ -10,7 +10,7 @@
 
 # 📌 Descripción del Proyecto
 
-Aplicación de escritorio desarrollada en **Python** para la gestión administrativa de **trámites vinculados a ciudadanos**.  
+Es una aplicación de escritorio desarrollada en **Python** para la gestión administrativa de **trámites vinculados a ciudadanos**.  
 Este proyecto se destaca por la implementación de una **Arquitectura por Capas**, lo que garantiza un código organizado, mantenible, escalable y seguro.
 
 ---
