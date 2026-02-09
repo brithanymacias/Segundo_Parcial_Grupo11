@@ -30,7 +30,7 @@ Este proyecto se destaca por la implementación de una **Arquitectura por Capas*
 
 ## 🛠️ Arquitectura del Software
 
-El sistema no es un script monolítico, sino una aplicación estructurada siguiendo **buenas prácticas de ingeniería de software**.
+El sistema no es un script monolítico, sino una aplicación estructurada siguiendo buenas prácticas de ingeniería de software.
 
 ### 1️⃣ Arquitectura por Capas (Layered Architecture)
 
@@ -66,7 +66,7 @@ El código está organizado en paquetes lógicos que separan claramente las resp
 ### 3️⃣ Seguridad
 
 - **Prevención de Inyección SQL**  
-  Uso estricto de **consultas parametrizadas** en todas las sentencias SQL.
+  Uso estricto de consultas parametrizadas en todas las sentencias SQL.
 
 - **Manejo de Excepciones**  
   Implementación de bloques `try-except` para capturar:
@@ -94,7 +94,7 @@ Este script contiene:
 
 1. Clonar el repositorio desde GitHub.
 2. Ejecutar el archivo `schema.sql` en SQL Server.
-3. Abrir el proyecto en **PyCharm**.
+3. Abrir el proyecto en PyCharm.
 4. Ejecutar el archivo `main.py`.
 
 ---
